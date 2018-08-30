@@ -4,7 +4,7 @@ import {
   Home,
   About,
   Posts
-} from 'pages/index.async.js';
+} from 'pages';
 import Menu from 'components/Menu';
 
 const App = () => {
